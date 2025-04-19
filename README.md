@@ -1,1 +1,1 @@
-# yolo_obj
+yolo-object-detection
